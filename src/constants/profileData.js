@@ -19,7 +19,7 @@ export const PROFILE_DATA = {
   initials: "ND",
   description:
     "An enthusiastic Full Stack Developer with a strong foundation in both front-end and back-end technologies. Eager to apply my knowledge and skills to real-world projects, I am passionate about learning and growing in the field of web development.",
-  resume: "https://drive.google.com/file/d/1YKVNr_K0lerFXDSlA1ht4fLfe7E62Du_/view?usp=sharing",
+  resume: "https://docs.google.com/document/d/1iM3l1pCOBCkIJn9nig6z3UFTpiYN-ggBDyKy3zEzZ8Y/edit?tab=t.0",
   email: "nithinpatel1002@gmail.com",
   about: {
     profileUrl: "https://res.cloudinary.com/dalibqqie/image/upload/v1765385417/user_1_jxy38f.jpg",
